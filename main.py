@@ -1,5 +1,5 @@
 import tweepy
-
+import schedule
 CONSUMER_KEY = "Hoge"
 CONSUMER_SECRET = "Fuga"
 auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
